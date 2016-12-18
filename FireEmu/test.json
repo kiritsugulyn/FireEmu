@@ -1,0 +1,60 @@
+{
+    "valance" : 93,
+    "attacker" : {
+        "Yomi" : "Bismarck",
+        "Houg" : 90,
+        "Level" : 150,
+        "Luck" : 28,
+        "Taik" : 90,
+        "Stype" : 9,
+        "Kaihi" : 100,
+        "Nowhp" : 90,
+        "Soukou" : 80,
+        "Status" : 0,
+        "slots" : [
+            {
+                "Id" : 1,
+                "Houm" : 10,
+                "Api_mapbattle_type3" : 1,
+                "Houg" : 10
+            },
+            {
+                "Id" : 1,
+                "Houm" : 10,
+                "Api_mapbattle_type3" : 1,
+                "Houg" : 10
+            },
+            {
+                "Id" : 1,
+                "Houm" : 10,
+                "Api_mapbattle_type3" : 1,
+                "Houg" : 10
+            },
+            {
+                "Id" : 1,
+                "Houm" : 10,
+                "Api_mapbattle_type3" : 1,
+                "Houg" : 10
+            }
+        ],
+        // 0 to 10
+        "slotLevel" : [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "target" : {
+        "Houg" : 6,
+        "Level" : 1,
+        "Luck" : 1,
+        "Taik" : 20,
+        "Yomi" : "i",
+        "Stype" : 1,
+        "Kaihi" : 14,
+        "Nowhp" : 20,
+        "Soukou" : 5,
+        "Status" : 40
+    }
+}
