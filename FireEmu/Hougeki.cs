@@ -60,7 +60,7 @@ namespace FireEmu
 
         protected virtual int getHougAttackValue(Mem_ship atk_ship, List<Mst_slotitem> atk_slot, List<int> slotLevel, Mem_ship def_ship)
         {
-            int num = 150;
+            int num = 180;
             List<int> list = slotLevel;
             double num2 = 0.0;
             int num3 = 0;
